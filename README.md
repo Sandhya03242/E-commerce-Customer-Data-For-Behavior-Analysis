@@ -1,4 +1,4 @@
-# E-commerce Customer Behavior and Purchase Dataset
+# E-commerce Customer Behavior and Purchase 
 
 ## Project Overview
 The **E-commerce Customer Behavior and Purchase Dataset** is a synthetic dataset created using the Faker Python library. It simulates a comprehensive e-commerce environment, capturing various aspects of customer behavior and purchase history within a digital marketplace. This dataset is intended for data analysis and predictive modeling in e-commerce, suitable for tasks such as customer churn prediction, market basket analysis, recommendation systems, and trend analysis.
